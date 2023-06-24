@@ -1,7 +1,7 @@
 {
   "name": "discord-inject-remover",
   "description": "Discord Inject Remover is a simple script that removes the injects from the discord client.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "private": false,
   "repository": "git@github.com:ahmedrowaihi/discord-inject-remover.git",
